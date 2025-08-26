@@ -25,3 +25,6 @@ CREATE TABLE IF NOT EXISTS comida_marina (
     precio DECIMAL(10,2) NOT NULL,
     disponible TINYINT(1) NOT NULL
 );
+
+<img width="158" height="177" alt="image" src="https://github.com/user-attachments/assets/ef2eaa68-7c31-4a0b-9b51-df6abaed0e0e" />
+
