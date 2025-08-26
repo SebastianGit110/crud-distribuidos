@@ -25,20 +25,3 @@ CREATE TABLE IF NOT EXISTS comida_marina (
     precio DECIMAL(10,2) NOT NULL,
     disponible TINYINT(1) NOT NULL
 );
-
-## Endpoints
-
-### 1. Crear comida
-**POST** `/comida/`
-
-Crea un nuevo registro en la tabla `comida_marina`.
-
-#### Request Body (JSON)
-```json
-{
-  "nombre": "Ceviche",
-  "tipo": "Entrada",
-  "precio": 25000,
-  "disponible": true
-}
-
