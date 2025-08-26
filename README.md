@@ -26,5 +26,9 @@ CREATE TABLE IF NOT EXISTS comida_marina (
     disponible TINYINT(1) NOT NULL
 );
 ```
+
+---
+<img width="158" height="177" alt="image" src="https://github.com/user-attachments/assets/878eebca-ba5a-44e8-926e-af6d81e5523c" />
+
 <img width="158" height="177" alt="image" src="https://github.com/user-attachments/assets/ef2eaa68-7c31-4a0b-9b51-df6abaed0e0e" />
 
